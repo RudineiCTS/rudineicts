@@ -44,9 +44,6 @@ Acredito na melhoria contínua e estou sempre em busca de oportunidades para evo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudineicts)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RudineiCTS)
 
----
-
-📫 **Dica**: Se quiser que eu adicione um link correto para o LinkedIn, me envie seu perfil!
 
 ---
 
